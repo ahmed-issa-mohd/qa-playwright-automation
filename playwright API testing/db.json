@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Updated Playwright Title",
+      "body": "Updated Body with Playwright",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "API Testing",
+      "body": "Learning GET Request",
+      "userId": 2
+    },
+    {
+      "title": "Playwright API Testing",
+      "body": "Learning POST Request with Playwright",
+      "userId": 10,
+      "id": "UZc-LfzA7VQ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ahmed",
+      "email": "ahmed@test.com"
+    },
+    {
+      "id": "2",
+      "name": "Ali",
+      "email": "ali@test.com"
+    },
+    {
+      "id": "3",
+      "name": "Sara",
+      "email": "sara@test.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
